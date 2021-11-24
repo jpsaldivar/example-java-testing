@@ -5,15 +5,13 @@
 
 This is a project example for testing in java with spring boot, JUnit and Mockito.
 
+### Knowledge review
+[Reference to JUnit & Mockito](https://medium.com/@jp.saldivarrojas/junit-y-mockito-comenzando-mis-primeros-test-be916abb4b13)
+
 ### Recommended Tools
 - Java 8 or Later
 - Eclipse Oxygen or Later
 - Spring Boot 2.0.0.RELEASE or Later
-
-### Installing Java 8 and Eclipse
-- Installation Video : https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
-- GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
-- PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
 
 ### References
 - Intellij
@@ -38,65 +36,8 @@ This is a project example for testing in java with spring boot, JUnit and Mockit
 ### Requirements
 - You should have working knowledge of Java and Annotations. 
 - We will help you install Eclipse and get up and running with Maven and Tomcat.
-- You should have basic knowledge about Spring, Spring Boot and JPA/Hibernate. We provide resources that can be used as starting points to enrich your knowledge in the course.
-                                                                                
-## Mockito
-
-### Step By Step Details
-
-- Step 01: Setting up the project using Spring Initializr
-- Step 02: Writing Unit Test for a Simple Business Service
-- Step 03: Setting up a Business Service to call a Data Service
-- Step 04: Writing your first unit test with Stub
-  - Exercise - Update Tests 2 & 3
-- Step 05: Exercise Solution - Updating Tests 2 & 3 to use Stubs - Problem with Stubs.
-- Step 06: Writing Unit Tests with Mocking using Mockito
-  - Exercise - Updating Tests 2 & 3 to use Mockito
-- Step 07: Exercise Solution - Updating Tests 2 & 3 to use Mockito
-- Step 08: More Refactoring - @Mock, @InjectMocks and @RunWith(MockitoJUnitRunner.class)
-- Step 09: Mockito Tips - Multiple Return Values and Specific Argument Matchers
-- Step 10: Mockito Tips - Argument Matchers
-- Step 11: Mockito Tips - Verify method calls
-- Step 12: Mockito Tips - Argument Capture
-- Step 13: Mockito Tips - Argument Capture on Multiple Calls
-- Step 14: Introduction to Spy
-- Step 15: Mockito FAQ
-
-## Spring Boot & Mockito - Unit Testing
-
-### Step By Step Details
-
-- Step 01: Creating a Hello World Controller
-- Step 02: Using Mock Mvc to test Hello World Controller
-- Step 03: Using Response Matchers to check status and content
-- Step 04: Creating a Basic REST Service in Item Controller
-- Step 05: Unit Testing Item Controller and Basic JSON Assertions
-- Step 06: Digging deeper into JSON Assert
-- Step 07: Writing a REST Service talking to Business Layer
-- Step 08: Writing Unit Test for REST Service mocking Business Layer
-- Step 09 - 01 - Prepare Data Layers with JPA, Hibernate and H2
-- Step 10: Create Item Entity and Populate data with data.sql
-- Step 11: Create a RESTful Service talking to the database
-- Step 12: Writing Unit Test for Web Layer - Controller - Using Mock MVC
-- Step 13: Exercise & Solution - Writing Unit Test for Business Layer - Mocking
-- Step 14: Writing Unit Test for Data Layer - Data JPA Test
-  - Exercise - Write Unit Test for findById method retrieving item with id 10001
-- Step 15: Writing an Integration Test using @SpringBootTest
-  - Exercise - Make Asserts Better
-- Step 16: Tip : Using @MockBean to mock out dependencies you do not want to talk to!
-- Step 17: Tip : Creating Different Test Configuration
-- Step 18: Writing Unit Tests for Other Request Methods
-- Step 19: Refactor SomeBusinessImpl to use Functional Programming
-  - Exercise - Convert the second method to use Functional Approach
-- Step 20: Better Assertions with Hamcrest - HamcrestMatcherTest
-- Step 21: Better Assertions with AssertJ - AssertJTest
-- Step 22: Better Assertions with JSONPath - JSONPathTest
-- Step 23: Easier Static Imports
-- Step 24: Tip : Measuring Test Coverage with Eclipse
-- Step 25: Tip : Keep an eye on performance of unit tests!
-- Step 26: Good Unit Tests
-
+- You should have basic knowledge about Spring, Spring Boot and JPA/Hibernate. We provide resources that can be used as starting points to enrich your knowledge in the course.                                                                               
 
 ### Reference
 
-[Project of in28minutes](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)
+[Project of in28minutes](https://github.com/in28minutes)
